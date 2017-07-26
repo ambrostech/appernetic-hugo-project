@@ -8,7 +8,6 @@ title = "firstpost"
 
 
 ----------
-[enter link description here][1]
+[Sea_tlswrl][1]
 
-
-  [1]: http://res.cloudinary.com/ambrostech/image/upload/v1501074702/Sea_tlswrl.jpg
+    [1]: http://res.cloudinary.com/ambrostech/image/upload/v1501074702/Sea_tlswrl.jpg
